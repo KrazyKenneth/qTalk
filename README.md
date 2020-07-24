@@ -1,6 +1,6 @@
 # qTalk [![Build Status](https://travis-ci.org/uTox/uTox.svg?branch=develop)](https://travis-ci.org/uTox/uTox) [![Build status](https://ci.appveyor.com/api/projects/status/github/utox/utox?branch=develop&svg=true)](https://ci.appveyor.com/project/utox/utox) [![IRC](https://img.shields.io/badge/freenode-%23utox-brightgreen.svg)](https://webchat.freenode.net/?channels=#utox)
 
-An implementation of the toxcore [qTalk](https://github.com/TokTok/toxcore) client.
+An implementation of the [toxcore](https://github.com/TokTok/toxcore).
 
 [**Installing**](docs/INSTALL.md) **|** [**Compiling**](docs/BUILD.md) **|** [**Screenshots**](screenshots/INDEX.md) **|** [**Release Notes**](release_notes/INDEX.md) **|** [**TokTok Site**](http://toktok.github.io/) **|** [**Toxcore Spec**](https://toktok.github.io/spec)
 
