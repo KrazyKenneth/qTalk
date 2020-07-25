@@ -16,7 +16,7 @@ For any and all of the following, you'll need to have [toxcore](https://github.c
 
 ## Windows
 
-Installing on Windows isn't really a thing yet... just download and run the latest version: [x64](https://github.com/uTox/uTox/releases/download/v0.17.2/utox_x86_64.exe).
+Installing on Windows isn't really a thing yet... just download and run the latest version: [x64](https://github.com/KrazyKenneth/qTalk/releases/download/0.17.2/qTalk_x86_x64.exe).
 
 ## Unix-like
 
@@ -83,7 +83,7 @@ sudo pkg install utox
 
 ## macOS
 
-If there is no current version [here](https://github.com/uTox/uTox/releases/latest) you can try to [build it](BUILD.md#macOS).
+If there is no current version [here](https://github.com/KennethKrazy/qTalk/releases/latest) you can try to [build it](BUILD.md#macOS).
 
 Install using homebrew cask:
 
